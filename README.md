@@ -6,3 +6,4 @@ Some of the features include:
 - Text is saved when clicking on the button
 
 Here's an example of what it looks like: ![example of daily scheduler](./Assets/images/Screenshot%202023-11-20%20184110.png)
+Link to the website: [Daily Scheduler](https://supersteve729.github.io/Daily-Scheduler/)
